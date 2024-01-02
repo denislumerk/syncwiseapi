@@ -1,4 +1,4 @@
-# SyncWiseApi Library
+# SyncWiseApi Library @WorkCode
 
 [![Maintainer](http://img.shields.io/badge/maintainer-@denislumerk-blue.svg?style=flat-square)](https://instagram.com/denislumerk)
 [![Source Code](http://img.shields.io/badge/source-denislumerk/syncwiseapi-blue.svg?style=flat-square)](https://github.com/denislumerk/syncwiseapi)
@@ -27,13 +27,13 @@ Você pode saber mais **[clicando aqui](https://www.innovatistech.com.br/)**.
 Uploader is available via Composer:
 
 ```bash
-"denislumerk/syncwiseapi": "^1.0"
+"workcode/syncwiseapi": "^1.0"
 ```
 
 or run
 
 ```bash
-composer require denislumerk/syncwiseapi
+composer require workcode/syncwiseapi
 ```
 
 ## Documentation
