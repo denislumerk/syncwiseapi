@@ -1,0 +1,30 @@
+{
+  "name": "workcode/syncwiseapi",
+  "description": "Biblioteca API para integração com o webservice SaaS",
+  "keywords": [
+    "API",
+    "Work Code",
+    "SaaS",
+    "PHP",
+    "SyncWiseApi"
+  ],
+  "homepage": "https://www.innovatistech.com.br",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Denis Lumerk",
+      "email": "denislumerk@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": "^7.4",
+    "ext-json": "*",
+    "ext-curl": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "WorkCode\\SyncWiseApi\\": "src"
+    }
+  }
+}
