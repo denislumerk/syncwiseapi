@@ -2,7 +2,7 @@
 
 [![Maintainer](http://img.shields.io/badge/maintainer-@denislumerk-blue.svg?style=flat-square)](https://instagram.com/denislumerk)
 [![Source Code](http://img.shields.io/badge/source-denislumerk/syncwiseapi-blue.svg?style=flat-square)](https://github.com/denislumerk/syncwiseapi)
-[![PHP from Packagist](https://img.shields.io/packagist/php-v/denislumerk/syncwiseapi.svg?style=flat-square)](https://packagist.org/packages/denislumerk/syncwiseapi)
+[![PHP from Packagist](https://img.shields.io/packagist/php-v/workcode/syncwiseapi.svg?style=flat-square)](https://packagist.org/packages/workcode/syncwiseapi)
 [![Latest Version](https://img.shields.io/github/release/denislumerk/syncwiseapi.svg?style=flat-square)](https://github.com/denislumerk/syncwiseapi/releases)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
 [![Build](https://img.shields.io/scrutinizer/build/g/denislumerk/syncwiseapi.svg?style=flat-square)](https://scrutinizer-ci.com/g/denislumerk/syncwiseapi)
