@@ -59,7 +59,7 @@ if ($create && !empty($create["create"])) {
     $create = null;
 }
 
-$value = function ($value) use ($create) {
+$value = function($value) use ($create) {
     return (!empty($create[$value]) ? $create[$value] : null);
 };
 
@@ -125,7 +125,7 @@ if ($invoiceUpdate->error()) {
     }
 
     $data = $invoiceUpdate->read($invoiceId)->response()->invoice;
-    $value = function ($value) use ($data) {
+    $value = function($value) use ($data) {
         return (!empty($data->$value) ? $data->$value : null);
     };
     ?>
