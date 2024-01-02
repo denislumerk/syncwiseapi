@@ -68,13 +68,11 @@ $value = function($value) use ($create) {
         <input type="hidden" name="create" value="true"/>
         <input type="text" name="wallet_id" value="<?= $value("wallet_id"); ?>" placeholder="wallet_id | Ex: 23"/>
         <input type="text" name="category_id" value="<?= $value("category_id"); ?>" placeholder="category_id | Ex: 3"/>
-        <input type="text" name="description" value="<?= $value("description"); ?>"
-               placeholder="description | Ex: By Component"/>
+        <input type="text" name="description" value="<?= $value("description"); ?>" placeholder="description | Ex: By Component"/>
         <input type="text" name="type" value="<?= $value("type"); ?>" placeholder="type | Ex: income"/>
         <input type="text" name="value" value="<?= $value("value"); ?>" placeholder="value | Ex: 2500.10"/>
         <input type="text" name="due_at" value="<?= $value("due_at"); ?>" placeholder="due_at | Ex: 2019-02-20"/>
-        <input type="text" name="repeat_when" value="<?= $value("repeat_when"); ?>"
-               placeholder="repeat_when | Ex: single"/>
+        <input type="text" name="repeat_when" value="<?= $value("repeat_when"); ?>" placeholder="repeat_when | Ex: single"/>
         <input type="text" name="period" value="<?= $value("period"); ?>" placeholder="period | Ex: month"/>
         <input type="text" name="enrollments" value="<?= $value("enrollments"); ?>" placeholder="enrollments | Ex: 1"/>
         <button>Cadastrar</button>
