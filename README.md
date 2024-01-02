@@ -27,13 +27,13 @@ Você pode saber mais **[clicando aqui](https://www.innovatistech.com.br/)**.
 Uploader is available via Composer:
 
 ```bash
-"workcode/syncwiseapi": "^1.0"
+"denislumerk/syncwiseapi": "^1.0"
 ```
 
 or run
 
 ```bash
-composer require workcode/syncwiseapi
+composer require denislumerk/syncwiseapi
 ```
 
 ## Documentation
