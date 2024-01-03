@@ -7,7 +7,7 @@
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
 [![Build](https://img.shields.io/scrutinizer/build/g/denislumerk/syncwiseapi.svg?style=flat-square)](https://scrutinizer-ci.com/g/denislumerk/syncwiseapi)
 [![Quality Score](https://img.shields.io/scrutinizer/g/denislumerk/syncwiseapi.svg?style=flat-square)](https://scrutinizer-ci.com/g/denislumerk/syncwiseapi)
-[![Total Downloads](https://img.shields.io/packagist/dt/denislumerk/syncwiseapi.svg?style=flat-square)](https://packagist.org/packages/workcode/syncwiseapi)
+[![Total Downloads](https://img.shields.io/packagist/dt/workcode/syncwiseapi.svg?style=flat-square)](https://packagist.org/packages/workcode/syncwiseapi)
 
 ###### SyncWiseApi Library is a small set of classes developed for integration into the webservice of a SaaS platform.
 
